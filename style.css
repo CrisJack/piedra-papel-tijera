@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color:brown ;
+    margin: 0;
+    height: 300px;
+}
+.manos{
+    margin-left: 200px;
+}
+.papel{
+    background-image: url(img/papel.png);
+    width: 100px;
+    height: 100px;
+    background-repeat:no-repeat;
+}
+.tijera{
+    background-image: url(img/tijera.png);
+    width: 100px;
+    height: 100px;
+    background-repeat:no-repeat;
+}
+.piedra{
+    background-image: url(img/piedra.png);
+    width: 100px;
+    height: 100px;
+    background-repeat:no-repeat;
+}
+
+.header-h1{
+    color: #ffffff;
+}
+footer{
+    background-color:steelblue ;
+    margin: 20px;
+    color: #ffffff;
+    border-radius: 20px;
+}
